@@ -49,23 +49,23 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub contribution profile" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivaguru-2113&theme=github_dark&animation=load&duration=2.5&name=SIVAGURU%20P%20%C2%B7%20JOYBOY" width="100%" alt="GitHub contribution profile" />
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivaguru-2113&theme=github_dark&animation=load&duration=2.5" width="100%" alt="Languages by repository" />
 </td>
 <td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Languages by commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivaguru-2113&theme=github_dark&animation=load&duration=2.5" width="100%" alt="Languages by commits" />
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivaguru-2113&theme=github_dark&animation=load&duration=2.5&hide_logo=true" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" alt="Productive coding time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivaguru-2113&theme=github_dark&utcOffset=5.5&animation=load&duration=2.5" width="100%" alt="Productive coding time" />
 </td>
 </tr>
 </table>
