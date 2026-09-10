@@ -26,15 +26,12 @@
 `AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
 
 </div>
----
 
 <!-- ========================= ABOUT ME ========================= -->
 
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
 <td colspan="2" style="padding: 22px 26px 14px;">
-
-<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 # ABOUT ME
 
@@ -66,10 +63,6 @@ Beyond technology, I'm inspired by **One Piece** and the idea of **JOYBOY** — 
 
 <img src="https://github.com/user-attachments/assets/5d810f3a-e021-4187-9745-87f64b849c14" width="430" alt="Galaxy vortex" />
 
-<br><br>
-
-<sub><b>A CURIOUS MIND</b><br>
-BUILDING A BRIGHTER TOMORROW</sub>
 
 </td>
 </tr>
