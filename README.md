@@ -67,40 +67,36 @@ BUILDING A BRIGHTER TOMORROW</sub>
 </tr>
 </table>
 
-<!-- ========================= PUBLIC REPOSITORIES ========================= -->
-
 ---
+
+<!-- ========================= TECH STACK ========================= -->
 
 <div align="center">
 
-### Public repositories
+### Tech stack
 
-<table width="850">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**[CODE-SENSEI](https://github.com/sivaguru-2113/CODE-SENSEI) ↗**
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,github,typescript,javascript,react,nextjs,nodejs&theme=light" alt="AI, backend and engineering stack" />
 
-AI-powered coding assistant focused on intelligent code understanding and generation.
+<br><br>
 
-`Python` · `AI` · `Developer Tools`
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,azure,firebase,supabase,vercel,nginx,bash,powershell,postman,figma,vscode&theme=light" alt="Cloud, data and developer tooling stack" />
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-**[Agent-persona](https://github.com/sivaguru-2113/Agent-persona) ↗**
-
-A persona wrapper for AI agents that enables adaptive, human-like interactions.
-
-`Python` · `Agents` · `LLMs`
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Generative_AI-LLMs-111111?style=flat-square&logo=openai&logoColor=F2F2F2" alt="Generative AI" />
+<img src="https://img.shields.io/badge/RAG-Vector_Search-111111?style=flat-square&logo=databricks&logoColor=F2F2F2" alt="RAG and vector search" />
+<img src="https://img.shields.io/badge/Agents-Tool_Use-111111?style=flat-square&logo=robotframework&logoColor=F2F2F2" alt="AI agents" />
+<img src="https://img.shields.io/badge/MLOps-Production_AI-111111?style=flat-square&logo=mlflow&logoColor=F2F2F2" alt="MLOps" />
+<img src="https://img.shields.io/badge/Cloud-AWS_%7C_Azure-111111?style=flat-square&logo=icloud&logoColor=F2F2F2" alt="Cloud" />
+<img src="https://img.shields.io/badge/Systems-Architecture-111111?style=flat-square&logo=diagramsdotnet&logoColor=F2F2F2" alt="Systems architecture" />
 
 </div>
 
 ---
+
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
 <div align="center">
 
@@ -135,30 +131,7 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 ---
 
-<div align="center">
-
-### Tech stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,github,typescript,javascript,react,nextjs,nodejs&theme=light" alt="AI, backend and engineering stack" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,azure,firebase,supabase,vercel,nginx,bash,powershell,postman,figma,vscode&theme=light" alt="Cloud, data and developer tooling stack" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Generative_AI-LLMs-111111?style=flat-square&logo=openai&logoColor=F2F2F2" alt="Generative AI" />
-<img src="https://img.shields.io/badge/RAG-Vector_Search-111111?style=flat-square&logo=databricks&logoColor=F2F2F2" alt="RAG and vector search" />
-<img src="https://img.shields.io/badge/Agents-Tool_Use-111111?style=flat-square&logo=robotframework&logoColor=F2F2F2" alt="AI agents" />
-<img src="https://img.shields.io/badge/MLOps-Production_AI-111111?style=flat-square&logo=mlflow&logoColor=F2F2F2" alt="MLOps" />
-<img src="https://img.shields.io/badge/Cloud-AWS_%7C_Azure-111111?style=flat-square&logo=icloud&logoColor=F2F2F2" alt="Cloud" />
-<img src="https://img.shields.io/badge/Systems-Architecture-111111?style=flat-square&logo=diagramsdotnet&logoColor=F2F2F2" alt="Systems architecture" />
-
-</div>
-
----
+<!-- ========================= CONTRIBUTIONS ========================= -->
 
 <div align="center">
 
@@ -172,10 +145,45 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 ---
 
+<!-- ========================= FOCUS ========================= -->
+
 <div align="center">
 
 ### Focus
 
 `AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
+
+</div>
+
+---
+
+<!-- ========================= PUBLIC REPOSITORIES ========================= -->
+
+<div align="center">
+
+### Public repositories
+
+<table width="850">
+<tr>
+<td width="50%" valign="top">
+
+**[CODE-SENSEI](https://github.com/sivaguru-2113/CODE-SENSEI) ↗**
+
+AI-powered coding assistant focused on intelligent code understanding and generation.
+
+`Python` · `AI` · `Developer Tools`
+
+</td>
+<td width="50%" valign="top">
+
+**[Agent-persona](https://github.com/sivaguru-2113/Agent-persona) ↗**
+
+A persona wrapper for AI agents that enables adaptive, human-like interactions.
+
+`Python` · `Agents` · `LLMs`
+
+</td>
+</tr>
+</table>
 
 </div>
