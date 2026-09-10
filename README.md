@@ -2,7 +2,7 @@
 
 <img width="850" src="https://github.com/user-attachments/assets/f7f5459c-4505-4176-9a5e-93416df3f18c" alt="Luffy" />
 
-# HI, I'M SIVAGURU P · JOYBOY
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=90&pause=1800&color=F2F2F2&center=true&vCenter=true&width=850&height=58&lines=HI%2C+I'M+SIVAGURU+P+%C2%B7+JOYBOY" alt="HI, I'M SIVAGURU P · JOYBOY" />
 
 **AI Engineer · AI Architect**
 
