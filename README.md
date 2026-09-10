@@ -65,55 +65,6 @@ BUILDING A BRIGHTER TOMORROW</sub>
 
 </td>
 </tr>
-
-<tr>
-<td colspan="2" style="padding: 0 22px 18px;">
-
-<table width="100%" border="0" cellpadding="12" cellspacing="8">
-<tr>
-<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
-
-**🧠 BUILD**
-
-<sub>Intelligent Systems</sub>
-
-</td>
-<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
-
-**∞ EXPLORE**
-
-<sub>New Possibilities</sub>
-
-</td>
-<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
-
-**♧ COLLABORATE**
-
-<sub>With Amazing People</sub>
-
-</td>
-<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
-
-**✦ CREATE**
-
-<sub>Real-World Impact</sub>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" style="padding: 14px 26px;">
-
-<sub>●</sub> **SAME CREW. HIGHER HORIZONS.**
-
-<div align="right"><sub>BUILD / LEARN / EXPLORE / REPEAT</sub></div>
-
-</td>
-</tr>
 </table>
 
 <!-- ========================= PUBLIC REPOSITORIES ========================= -->
