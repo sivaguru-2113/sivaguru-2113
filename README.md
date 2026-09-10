@@ -1,39 +1,40 @@
 <div align="center">
 
-# SIVAGURU P · JOYBOY
+# SIVAGURU P
 
-### AI ENGINEER · AI ARCHITECT · SYSTEMS BUILDER
+**AI Engineer · AI Architect**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=800&color=000000&center=true&vCenter=true&width=650&height=50&lines=BUILDING+INTELLIGENT+SYSTEMS;AI+AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=666666&center=true&vCenter=true&width=620&height=45&lines=AI+ENGINEERING;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
 
-<img src="./gh-space-shooter.gif" width="850" alt="GitHub contribution space shooter" />
+<img src="./gh-space-shooter.gif" width="850" alt="GitHub contribution animation" />
 
-`◉ SYSTEM ONLINE` · `BUILDING` · `JOYBOY`
-
-[GitHub](https://github.com/sivaguru-2113) · [Email](mailto:sivaguruofficial2007@gmail.com)
+[GitHub](https://github.com/sivaguru-2113) · [LinkedIn](#) · [Email](mailto:sivaguruofficial2007@gmail.com)
 
 </div>
 
 ---
 
-## `WHAT I BUILD`
+### Selected work
 
-**AI Agents** · **LLM Systems** · **RAG** · **AI Security** · **Autonomous Systems** · **Cloud Architecture**
+**ARIVAA** — AI-driven social-impact intelligence  
+**VEYRA** — Voice and identity security  
+**Agent Persona** — Identity and behavior architecture for AI agents  
+**ZORO** — Autonomous personal AI systems
 
-### `CURRENT SYSTEMS`
+### Focus
 
-| ARIVAA | VEYRA | AGENT PERSONA | ZORO |
-|---|---|---|---|
-| Social-impact AI | Voice & identity security | Agent identity & behavior | Reliable personal agent |
+`AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivaguru-2113&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444&icon_color=000000" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=sivaguru-2113&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=555555&cache_seconds=1800" height="170" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaguru-2113&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaguru-2113&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&cache_seconds=1800" height="170" alt="Top languages" />
 
-<br>
+</div>
 
-### `DON'T JUST BUILD SOFTWARE. BUILD SYSTEMS THAT MATTER.`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,github,typescript,react,nextjs,postgres,redis,aws&theme=light" alt="Technology stack" />
 
 </div>
