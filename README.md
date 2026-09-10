@@ -49,9 +49,49 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=sivaguru-2113&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=F2F2F2&text_color=B8B8B8&icon_color=F2F2F2" alt="GitHub statistics" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub contribution profile" />
 
-<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=sivaguru-2113&theme=github_dark&hide_border=true&bg_color=00000000&ring_color=F2F2F2&fire_color=F2F2F2&curr_streak_num_color=F2F2F2&side_nums_color=F2F2F2&curr_streak_label_color=B8B8B8&side_labels_color=B8B8B8&dates_color=777777" alt="GitHub contribution streak" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Languages by repository" />
+</td>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Languages by commits" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub statistics" />
+</td>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" alt="Productive coding time" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,github,typescript,javascript,react,nextjs,nodejs&theme=light" alt="AI, backend and engineering stack" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,azure,firebase,supabase,vercel,nginx,bash,powershell,postman,figma,vscode&theme=light" alt="Cloud, data and developer tooling stack" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Generative_AI-LLMs-111111?style=flat-square&logo=openai&logoColor=F2F2F2" alt="Generative AI" />
+<img src="https://img.shields.io/badge/RAG-Vector_Search-111111?style=flat-square&logo=databricks&logoColor=F2F2F2" alt="RAG and vector search" />
+<img src="https://img.shields.io/badge/Agents-Tool_Use-111111?style=flat-square&logo=robotframework&logoColor=F2F2F2" alt="AI agents" />
+<img src="https://img.shields.io/badge/MLOps-Production_AI-111111?style=flat-square&logo=mlflow&logoColor=F2F2F2" alt="MLOps" />
+<img src="https://img.shields.io/badge/Cloud-AWS_%7C_Azure-111111?style=flat-square&logo=icloud&logoColor=F2F2F2" alt="Cloud" />
+<img src="https://img.shields.io/badge/Systems-Architecture-111111?style=flat-square&logo=diagramsdotnet&logoColor=F2F2F2" alt="Systems architecture" />
 
 </div>
 
@@ -70,9 +110,3 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 ### Focus
 
 `AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,github,typescript,react,nextjs,postgres,redis,aws&theme=light" alt="Technology stack" />
-
-</div>
