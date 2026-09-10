@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=90&pause=1800&color=F2F2F2&center=true&vCenter=true&width=850&height=58&lines=HI%2C+I'M+SIVAGURU+P+%C2%B7+JOYBOY" alt="HI, I'M SIVAGURU P · JOYBOY" />
+<img src="./assets/joyboy-title.svg" width="850" alt="HI, I'M SIVAGURU P · JOYBOY" />
 
 **AI Engineer · AI Architect**
 
