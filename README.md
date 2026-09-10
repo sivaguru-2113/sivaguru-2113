@@ -20,6 +20,111 @@
 
 ---
 
+<!-- ========================= ABOUT ME ========================= -->
+
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
+<tr>
+<td colspan="2" align="left">
+
+<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
+# ABOUT ME
+
+`IDEAS`　→　`SYSTEMS`　→　`IMPACT`
+
+</td>
+</tr>
+
+<tr>
+<td width="58%" valign="top">
+
+I'm <b>SIVAGURU P</b>, an <b>AI Engineer</b> and <b>AI Architect</b>.
+
+I love building <b>intelligent systems</b> that solve real-world problems. My interests span <b>AI Agents</b>, <b>LLMs</b>, <b>RAG</b>, <b>AI Security</b> and <b>Autonomous Systems</b>, combining research, engineering, and product thinking to create meaningful impact.
+
+I'm always exploring new ideas, learning, and working on projects that push the boundaries of what's possible with <b>AI</b> and <b>Technology</b>.
+
+Beyond tech, I'm inspired by <b>One Piece</b> and the idea of <b>JOYBOY</b> — freedom, curiosity, and a better world for everyone.
+
+> *"The dream isn't just to be the best,<br>
+> but to build a world where everyone can dream."*<br>
+> — **JOYBOY**
+
+</td>
+
+<td width="42%" valign="top" align="center">
+
+<img src="./assets/about-galaxy.svg" width="100%" alt="A monochrome spiral galaxy representing curiosity and exploration" />
+
+<br>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center">
+
+**↥　PLACE YOUR GIF HERE**
+
+`Replace with your GIF (e.g. galaxy.gif)`
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
+<tr>
+<td width="25%" valign="top">
+
+### 🧠 BUILD
+
+`Intelligent Systems`
+
+</td>
+<td width="25%" valign="top">
+
+### ∞ EXPLORE
+
+`New Possibilities`
+
+</td>
+<td width="25%" valign="top">
+
+### ♧ COLLABORATE
+
+`With Amazing People`
+
+</td>
+<td width="25%" valign="top">
+
+### ✧ CREATE
+
+`Real World Impact`
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+`●` **SAME CREW. HIGHER HORIZONS.**　　　　　　　　　　　　　　　　　`BUILD / LEARN / EXPLORE / REPEAT`
+
+</td>
+</tr>
+</table>
+
+<!-- ========================= PUBLIC REPOSITORIES ========================= -->
+
+---
+
 <div align="center">
 
 ### Public repositories
