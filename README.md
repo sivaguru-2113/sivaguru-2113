@@ -6,8 +6,6 @@
 
 <img src="./assets/joyboy-title.svg" width="850" alt="HI, I'M SIVAGURU P · JOYBOY" />
 
-**AI Engineer · AI Architect**
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=F2F2F2&center=true&vCenter=true&width=700&height=42&lines=WELCOME+!!;AI+ENGINEERING;FOUNDER;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
 
 `AI AGENTS` · `LLMs` · `RAG` · `AI SECURITY` · `AUTONOMOUS SYSTEMS`
@@ -18,6 +16,16 @@
 
 </div>
 
+---
+<!-- ========================= FOCUS ========================= -->
+
+<div align="center">
+
+### Focus
+
+`AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
+
+</div>
 ---
 
 <!-- ========================= ABOUT ME ========================= -->
@@ -143,17 +151,6 @@ BUILDING A BRIGHTER TOMORROW</sub>
 
 </div>
 
----
-
-<!-- ========================= FOCUS ========================= -->
-
-<div align="center">
-
-### Focus
-
-`AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
-
-</div>
 
 ---
 
