@@ -1,4 +1,5 @@
 <div align="center">
+<img width="498" height="280" alt="Luffy" src="https://github.com/user-attachments/assets/f7f5459c-4505-4176-9a5e-93416df3f18c" />
 
 # SIVAGURU P · JOYBOY
 
