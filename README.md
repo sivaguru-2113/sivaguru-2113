@@ -26,7 +26,7 @@
 <tr>
 <td colspan="2" align="left">
 
-<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 # ABOUT ME
 
@@ -54,17 +54,14 @@ Beyond tech, I'm inspired by <b>One Piece</b> and the idea of <b>JOYBOY</b> — 
 
 <td width="42%" valign="top" align="center">
 
-<img src="./assets/about-galaxy.svg" width="100%" alt="A monochrome spiral galaxy representing curiosity and exploration" />
+<img width="500" height="500" alt="Vortex" src="https://github.com/user-attachments/assets/5d810f3a-e021-4187-9745-87f64b849c14" />
+
 
 <br>
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0">
 <tr>
 <td align="center">
-
-**↥　PLACE YOUR GIF HERE**
-
-`Replace with your GIF (e.g. galaxy.gif)`
 
 </td>
 </tr>
