@@ -22,11 +22,11 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-<table width="100%" border="1" cellpadding="18" cellspacing="0">
+<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td colspan="2" align="left">
+<td colspan="2" style="padding: 22px 26px 14px;">
 
-<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+<sub><b>02</b>　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 # ABOUT ME
 
@@ -36,32 +36,67 @@
 </tr>
 
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="top" style="padding: 10px 26px 24px;">
 
-I'm <b>SIVAGURU P</b>, an <b>AI Engineer</b> and <b>AI Architect</b>.
+I'm **SIVAGURU P**, an **AI Engineer** and **AI Architect**.
 
-I love building <b>intelligent systems</b> that solve real-world problems. My interests span <b>AI Agents</b>, <b>LLMs</b>, <b>RAG</b>, <b>AI Security</b> and <b>Autonomous Systems</b>, combining research, engineering, and product thinking to create meaningful impact.
+I build **intelligent systems** that solve real-world problems. My work focuses on **AI Agents**, **LLMs**, **RAG**, **AI Security**, and **Autonomous Systems** — combining research, engineering, and product thinking to create meaningful impact.
 
-I'm always exploring new ideas, learning, and working on projects that push the boundaries of what's possible with <b>AI</b> and <b>Technology</b>.
+I'm constantly exploring new ideas, learning, and building projects that push what's possible with **AI and technology**.
 
-Beyond tech, I'm inspired by <b>One Piece</b> and the idea of <b>JOYBOY</b> — freedom, curiosity, and a better world for everyone.
+Beyond technology, I'm inspired by **One Piece** and the idea of **JOYBOY** — freedom, curiosity, adventure, and a better world for everyone.
 
-> *"The dream isn't just to be the best,<br>
-> but to build a world where everyone can dream."*<br>
+<br>
+
+> *"The dream isn't just to be the best,*<br>
+> *but to build a world where everyone can dream."*<br>
 > — **JOYBOY**
 
 </td>
 
-<td width="42%" valign="top" align="center">
+<td width="42%" align="center" valign="middle" style="padding: 10px 22px 24px;">
 
-<img width="500" height="500" alt="Vortex" src="https://github.com/user-attachments/assets/5d810f3a-e021-4187-9745-87f64b849c14" />
+<img src="https://github.com/user-attachments/assets/5d810f3a-e021-4187-9745-87f64b849c14" width="430" alt="Galaxy vortex" />
 
+<br><br>
 
-<br>
+<sub><b>A CURIOUS MIND</b><br>
+BUILDING A BRIGHTER TOMORROW</sub>
 
-<table width="100%" border="1" cellpadding="10" cellspacing="0">
+</td>
+</tr>
+
 <tr>
-<td align="center">
+<td colspan="2" style="padding: 0 22px 18px;">
+
+<table width="100%" border="0" cellpadding="12" cellspacing="8">
+<tr>
+<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
+
+**🧠 BUILD**
+
+<sub>Intelligent Systems</sub>
+
+</td>
+<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
+
+**∞ EXPLORE**
+
+<sub>New Possibilities</sub>
+
+</td>
+<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
+
+**♧ COLLABORATE**
+
+<sub>With Amazing People</sub>
+
+</td>
+<td width="25%" align="center" valign="top" style="border: 1px solid #333;">
+
+**✦ CREATE**
+
+<sub>Real-World Impact</sub>
 
 </td>
 </tr>
@@ -71,48 +106,11 @@ Beyond tech, I'm inspired by <b>One Piece</b> and the idea of <b>JOYBOY</b> — 
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" style="padding: 14px 26px;">
 
-<table width="100%" border="1" cellpadding="14" cellspacing="0">
-<tr>
-<td width="25%" valign="top">
+<sub>●</sub> **SAME CREW. HIGHER HORIZONS.**
 
-### 🧠 BUILD
-
-`Intelligent Systems`
-
-</td>
-<td width="25%" valign="top">
-
-### ∞ EXPLORE
-
-`New Possibilities`
-
-</td>
-<td width="25%" valign="top">
-
-### ♧ COLLABORATE
-
-`With Amazing People`
-
-</td>
-<td width="25%" valign="top">
-
-### ✧ CREATE
-
-`Real World Impact`
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-`●` **SAME CREW. HIGHER HORIZONS.**　　　　　　　　　　　　　　　　　`BUILD / LEARN / EXPLORE / REPEAT`
+<div align="right"><sub>BUILD / LEARN / EXPLORE / REPEAT</sub></div>
 
 </td>
 </tr>
