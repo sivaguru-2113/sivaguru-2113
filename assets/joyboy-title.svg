@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="72" viewBox="0 0 850 72" role="img" aria-labelledby="title desc">
+  <title id="title">HI, I'M SIVAGURU P · JOYBOY</title>
+  <desc id="desc">A subtle continuous breathing animation for the profile title.</desc>
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="30" font-weight="700" letter-spacing="0.5">
+    <text x="425" y="47" fill="#F2F2F2" opacity="0.16" filter="url(#glow)">
+      HI, I'M SIVAGURU P · JOYBOY
+      <animate attributeName="opacity" values="0.10;0.24;0.10" dur="3.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="425" y="47" fill="#F2F2F2">
+      HI, I'M SIVAGURU P · JOYBOY
+      <animate attributeName="opacity" values="0.88;1;0.88" dur="3.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
