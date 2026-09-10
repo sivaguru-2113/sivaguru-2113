@@ -2,6 +2,8 @@
 
 <img width="850" src="https://github.com/user-attachments/assets/f7f5459c-4505-4176-9a5e-93416df3f18c" alt="Luffy" />
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=90&pause=1800&color=F2F2F2&center=true&vCenter=true&width=850&height=58&lines=HI%2C+I'M+SIVAGURU+P+%C2%B7+JOYBOY" alt="HI, I'M SIVAGURU P · JOYBOY" />
 
 **AI Engineer · AI Architect**
@@ -18,13 +20,15 @@
 
 ---
 
+<div align="center">
+
 ### Public repositories
 
-<table>
+<table width="850">
 <tr>
 <td width="50%" valign="top">
 
-### [CODE-SENSEI](https://github.com/sivaguru-2113/CODE-SENSEI) ↗
+**[CODE-SENSEI](https://github.com/sivaguru-2113/CODE-SENSEI) ↗**
 
 AI-powered coding assistant focused on intelligent code understanding and generation.
 
@@ -33,7 +37,7 @@ AI-powered coding assistant focused on intelligent code understanding and genera
 </td>
 <td width="50%" valign="top">
 
-### [Agent-persona](https://github.com/sivaguru-2113/Agent-persona) ↗
+**[Agent-persona](https://github.com/sivaguru-2113/Agent-persona) ↗**
 
 A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
@@ -43,29 +47,35 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 </tr>
 </table>
 
----
+</div>
 
-### GitHub analytics
+---
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub contribution profile" />
+### GitHub analytics
 
-<table>
+<br>
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="700" alt="GitHub contribution profile" />
+
+<br><br>
+
+<table width="700">
 <tr>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Languages by repository" />
+<td width="50%" align="center" valign="middle">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="340" alt="Languages by repository" />
 </td>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Languages by commits" />
+<td width="50%" align="center" valign="middle">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="340" alt="Languages by commits" />
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub statistics" />
+<td width="50%" align="center" valign="middle">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="340" alt="GitHub statistics" />
 </td>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" alt="Productive coding time" />
+<td width="50%" align="center" valign="middle">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="340" alt="Productive coding time" />
 </td>
 </tr>
 </table>
@@ -74,9 +84,11 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 ---
 
+<div align="center">
+
 ### Tech stack
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,github,typescript,javascript,react,nextjs,nodejs&theme=light" alt="AI, backend and engineering stack" />
 
@@ -101,12 +113,18 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 ### Contributions · Play while I code
 
+<br>
+
 <img src="./gh-space-shooter.gif" width="850" alt="GitHub contribution space shooter" />
 
 </div>
 
 ---
 
+<div align="center">
+
 ### Focus
 
 `AI Agents` · `LLMs` · `RAG` · `AI Security` · `Systems Architecture` · `Cloud`
+
+</div>
