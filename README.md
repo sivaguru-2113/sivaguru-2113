@@ -4,7 +4,7 @@
 
 **AI Engineer · AI Architect**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=45&lines=JOYBOY;AI+ENGINEERING;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&height=45&lines=JOYBOY;AI+ENGINEERING;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
 
 <img src="./gh-space-shooter.gif" width="850" alt="GitHub contribution animation" />
 
@@ -18,26 +18,38 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/sivaguru-2113/CODE-SENSEI">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&width=360&height=38&lines=CODE-SENSEI" alt="CODE-SENSEI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=F2F2F2&center=true&vCenter=true&width=420&height=40&lines=CODE-SENSEI" alt="CODE-SENSEI" />
 </a>
 
+<br>
+
 <a href="https://github.com/sivaguru-2113/CODE-SENSEI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sivaguru-2113&repo=CODE-SENSEI&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="CODE-SENSEI repository card" />
+<img src="https://img.shields.io/badge/CODE--SENSEI-000000?style=for-the-badge&logo=github&logoColor=F2F2F2&labelColor=111111&color=111111" alt="CODE-SENSEI repository" />
 </a>
+
+<br><br>
+
+<a href="https://github.com/sivaguru-2113/CODE-SENSEI">Explore repository →</a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/sivaguru-2113/Agent-persona">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&width=360&height=38&lines=AGENT-PERSONA" alt="Agent Persona" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=F2F2F2&center=true&vCenter=true&width=420&height=40&lines=AGENT-PERSONA" alt="Agent Persona" />
 </a>
 
+<br>
+
 <a href="https://github.com/sivaguru-2113/Agent-persona">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sivaguru-2113&repo=Agent-persona&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="Agent Persona repository card" />
+<img src="https://img.shields.io/badge/AGENT--PERSONA-000000?style=for-the-badge&logo=github&logoColor=F2F2F2&labelColor=111111&color=111111" alt="Agent Persona repository" />
 </a>
+
+<br><br>
+
+<a href="https://github.com/sivaguru-2113/Agent-persona">Explore repository →</a>
 
 </td>
 </tr>
