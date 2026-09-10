@@ -45,6 +45,18 @@ A persona wrapper for AI agents that enables adaptive, human-like interactions.
 
 ---
 
+### GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivaguru-2113&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2F2F2&text_color=B8B8B8&icon_color=F2F2F2&ring_color=F2F2F2&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=sivaguru-2113&hide_border=true&background=00000000&ring=F2F2F2&fire=F2F2F2&currStreakLabel=F2F2F2&sideLabels=B8B8B8&dates=777777&currStreakNum=F2F2F2&sideNums=F2F2F2" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### Contributions · Play while I code
