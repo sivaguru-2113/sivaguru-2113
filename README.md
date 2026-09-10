@@ -1,6 +1,6 @@
 <div align="center">
 
-# SIVAGURU P
+# SIVAGURU P · JOYBOY
 
 **AI Engineer · AI Architect**
 
