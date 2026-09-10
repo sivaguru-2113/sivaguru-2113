@@ -27,14 +27,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivaguru-2113&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=555555&cache_seconds=1800" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaguru-2113&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&cache_seconds=1800" height="170" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,github,typescript,react,nextjs,postgres,redis,aws&theme=light" alt="Technology stack" />
 
 </div>
