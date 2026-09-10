@@ -6,15 +6,13 @@
 
 **AI Engineer · AI Architect**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=F2F2F2&center=true&vCenter=true&width=700&height=42&lines=AI+ENGINEERING;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=F2F2F2&center=true&vCenter=true&width=700&height=42&lines=WELCOME+!!;AI+ENGINEERING;FOUNDER;INTELLIGENT+SYSTEMS;AGENTS+%2F+LLMs+%2F+RAG;AI+SECURITY+%2F+SYSTEM+DESIGN" alt="Animated introduction" />
 
 `AI AGENTS` · `LLMs` · `RAG` · `AI SECURITY` · `AUTONOMOUS SYSTEMS`
 
 [GitHub](https://github.com/sivaguru-2113) · [LinkedIn](#) · [Email](mailto:sivaguruofficial2007@gmail.com)
 
-> **STAY CURIOUS.**  
-> **KEEP BUILDING.**  
-> **BETTER DAYS AHEAD.**
+> **BUILD WITH INTELLIGENCE**
 
 </div>
 
