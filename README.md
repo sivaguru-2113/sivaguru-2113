@@ -43,6 +43,7 @@
 <tr>
 <td width="58%" valign="top" style="padding: 10px 26px 24px;">
 
+
 I'm **SIVAGURU P**, an **AI Engineer** and **AI Architect**.
 
 I build **intelligent systems** that solve real-world problems. My work focuses on **AI Agents**, **LLMs**, **RAG**, **AI Security**, and **Autonomous Systems** — combining research, engineering, and product thinking to create meaningful impact.
